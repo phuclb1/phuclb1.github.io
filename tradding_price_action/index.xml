@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trading Price Action Trends on Phuc&#39;s Books</title>
+    <link>https://example.org/tradding_price_action/</link>
+    <description>Recent content in Trading Price Action Trends on Phuc&#39;s Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tradding_price_action/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mở đầu</title>
+      <link>https://example.org/tradding_price_action/introduction/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tradding_price_action/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter I</title>
+      <link>https://example.org/tradding_price_action/chapter1/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tradding_price_action/chapter1/</guid>
+      <description>Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.
+She was the youngest of the two daughters of a most affectionate, indulgent father; and had, in consequence of her sister&amp;rsquo;s marriage, been mistress of his house from a very early period.</description>
+    </item>
+    
+  </channel>
+</rss>
